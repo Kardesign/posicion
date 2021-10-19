@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/posicion/static/css/main.a617e044.chunk.css",
+    "main.js": "/posicion/static/js/main.c3bd4930.chunk.js",
+    "main.js.map": "/posicion/static/js/main.c3bd4930.chunk.js.map",
+    "runtime-main.js": "/posicion/static/js/runtime-main.fdea9b43.js",
+    "runtime-main.js.map": "/posicion/static/js/runtime-main.fdea9b43.js.map",
+    "static/js/2.6ce93e93.chunk.js": "/posicion/static/js/2.6ce93e93.chunk.js",
+    "static/js/2.6ce93e93.chunk.js.map": "/posicion/static/js/2.6ce93e93.chunk.js.map",
+    "static/js/3.16cd456b.chunk.js": "/posicion/static/js/3.16cd456b.chunk.js",
+    "static/js/3.16cd456b.chunk.js.map": "/posicion/static/js/3.16cd456b.chunk.js.map",
+    "index.html": "/posicion/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/posicion/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6ce93e93.chunk.js.LICENSE.txt": "/posicion/static/js/2.6ce93e93.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/posicion/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdea9b43.js",
+    "static/js/2.6ce93e93.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c3bd4930.chunk.js"
+  ]
+}
